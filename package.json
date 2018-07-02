@@ -1,0 +1,29 @@
+{
+  "name": "redux-batching",
+  "version": "0.1.0",
+  "description": "redux-batching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./src --out-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel669/redux-batching.git"
+  },
+  "keywords": [
+    "redux",
+    "batch"
+  ],
+  "author": "Axel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axel669/redux-batching/issues"
+  },
+  "homepage": "https://github.com/axel669/redux-batching#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
