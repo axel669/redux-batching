@@ -1,1 +1,1 @@
-module.exports.default = require('./dist/redux-batching.js').default;
+module.exports = require('./dist/redux-batching.js');
